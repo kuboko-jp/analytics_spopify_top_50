@@ -2,4 +2,4 @@
 Python analysis of the global Spotify "Weekly Top 50".
 
 
-[spotypy](https://github.com/plamere/spotipy)
+- [spotypy](https://github.com/plamere/spotipy)
